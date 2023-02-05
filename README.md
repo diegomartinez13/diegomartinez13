@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Diego Martínez García: @diegomartinez13
 - 👀 I’m a Computer Science and engineering studient at UPRM
 ## 🌱 I’m currently on the Solar Car Team (SERRT) in the [Telemetry Division](https://github.com/SERRT-Telemetry)
-- 💞️ I’m looking for internships or jobs offers  
+- I’m looking for internships or jobs offers  
 ## 📫 How to reach me:
 - [MAIL](mailto:d.mg17@outlook.com)
 - [LINKEDIN](https://www.linkedin.com/in/d-mg17/)
