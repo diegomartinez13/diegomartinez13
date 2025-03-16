@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/v2/D5603AQGBDkIu1S5XIg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685901737347?e=1738195200&v=beta&t=gFICjUN1tnU5JcIEJnj3tBq9amRNbyKWWBPqCxJS83o"  />
+  <img height="250" src="https://media.licdn.com/dms/image/v2/D5603AQGBDkIu1S5XIg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1685901737347?e=1747872000&v=beta&t=v4yIf9_XkbndKYRuR8-OEjg2zR-PS0yD8VnSotTmaJY"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/martinezgarciadiego/" target="_blank">
+  <a href="https://www.linkedin.com/in/d-mg17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
