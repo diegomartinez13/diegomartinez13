@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/v2/D5603AQGBDkIu1S5XIg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1685901737347?e=1747872000&v=beta&t=v4yIf9_XkbndKYRuR8-OEjg2zR-PS0yD8VnSotTmaJY"  />
-</div>
+###
+
+<h1 align="center">👋 Hi, I’m Diego Martínez García</h1>
 
 ###
 
@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">👋 Hi, I’m Diego Martínez García</h1>
 
 ###
 
@@ -79,7 +75,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diegomartinez13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=diegomartinez13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegomartinez13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegomartinez13&locale=en&hide_title=false&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="350" alt="languages graph"  />
 </div>
 
 ###
